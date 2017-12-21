@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BirthDay</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="save_modify">保存修改</string>
+    <string name="give_up_modify">放弃修改</string>
+</resources>
